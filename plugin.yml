@@ -1,0 +1,6 @@
+name: CompanySystem
+main: JunDev76\CompanySystem\CompanySystem
+version: 1.0.0
+author: JunDev76
+api:
+- 4.0.0
